@@ -1,6 +1,6 @@
 #!/bin/bash
 # Shell Script to Deploy Staging Repo.
-# By Github/Abd0M0hamed Abdo.Tasks@gmail.com
+# By github/AH3laly AH3laly@gmail.com
 
 
 git_user=Github_User
